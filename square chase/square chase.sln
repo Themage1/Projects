@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "square chase", "square chase\square chase\square chase.csproj", "{79C04AAF-FE6B-484C-8803-A303DCC4BB27}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "square chaseContent", "square chase\square chaseContent\square chaseContent.contentproj", "{9F3BA5A7-343B-41ED-B2D5-76CEB93BA470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C04AAF-FE6B-484C-8803-A303DCC4BB27}.Debug|x86.ActiveCfg = Debug|x86
+		{79C04AAF-FE6B-484C-8803-A303DCC4BB27}.Debug|x86.Build.0 = Debug|x86
+		{79C04AAF-FE6B-484C-8803-A303DCC4BB27}.Release|x86.ActiveCfg = Release|x86
+		{79C04AAF-FE6B-484C-8803-A303DCC4BB27}.Release|x86.Build.0 = Release|x86
+		{9F3BA5A7-343B-41ED-B2D5-76CEB93BA470}.Debug|x86.ActiveCfg = Debug|x86
+		{9F3BA5A7-343B-41ED-B2D5-76CEB93BA470}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
